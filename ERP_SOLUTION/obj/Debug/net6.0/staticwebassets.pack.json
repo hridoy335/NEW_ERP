@@ -1,0 +1,2841 @@
+{
+  "Files": [
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\ERP_SOLUTION.bundle.scp.css",
+      "PackagePath": "staticwebassets\\ERP_SOLUTION.bundle.scp.css"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\assets\\css\\apps\\contacts.css",
+      "PackagePath": "staticwebassets\\assets\\css\\apps\\contacts.css"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\assets\\css\\apps\\invoice.css",
+      "PackagePath": "staticwebassets\\assets\\css\\apps\\invoice.css"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\assets\\css\\apps\\mailbox.css",
+      "PackagePath": "staticwebassets\\assets\\css\\apps\\mailbox.css"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\assets\\css\\apps\\mailing-chat.css",
+      "PackagePath": "staticwebassets\\assets\\css\\apps\\mailing-chat.css"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\assets\\css\\apps\\notes.css",
+      "PackagePath": "staticwebassets\\assets\\css\\apps\\notes.css"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\assets\\css\\apps\\scrumboard.css",
+      "PackagePath": "staticwebassets\\assets\\css\\apps\\scrumboard.css"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\assets\\css\\apps\\todolist.css",
+      "PackagePath": "staticwebassets\\assets\\css\\apps\\todolist.css"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\assets\\css\\authentication\\form-1.css",
+      "PackagePath": "staticwebassets\\assets\\css\\authentication\\form-1.css"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\assets\\css\\authentication\\form-2.css",
+      "PackagePath": "staticwebassets\\assets\\css\\authentication\\form-2.css"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\assets\\css\\components\\cards\\card.css",
+      "PackagePath": "staticwebassets\\assets\\css\\components\\cards\\card.css"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\assets\\css\\components\\custom-carousel.css",
+      "PackagePath": "staticwebassets\\assets\\css\\components\\custom-carousel.css"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\assets\\css\\components\\custom-countdown.css",
+      "PackagePath": "staticwebassets\\assets\\css\\components\\custom-countdown.css"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\assets\\css\\components\\custom-counter.css",
+      "PackagePath": "staticwebassets\\assets\\css\\components\\custom-counter.css"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\assets\\css\\components\\custom-list-group.css",
+      "PackagePath": "staticwebassets\\assets\\css\\components\\custom-list-group.css"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\assets\\css\\components\\custom-media_object.css",
+      "PackagePath": "staticwebassets\\assets\\css\\components\\custom-media_object.css"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\assets\\css\\components\\custom-modal.css",
+      "PackagePath": "staticwebassets\\assets\\css\\components\\custom-modal.css"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\assets\\css\\components\\custom-sweetalert.css",
+      "PackagePath": "staticwebassets\\assets\\css\\components\\custom-sweetalert.css"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\assets\\css\\components\\tabs-accordian\\custom-accordions.css",
+      "PackagePath": "staticwebassets\\assets\\css\\components\\tabs-accordian\\custom-accordions.css"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\assets\\css\\components\\tabs-accordian\\custom-tabs.css",
+      "PackagePath": "staticwebassets\\assets\\css\\components\\tabs-accordian\\custom-tabs.css"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\assets\\css\\components\\timeline\\custom-timeline.css",
+      "PackagePath": "staticwebassets\\assets\\css\\components\\timeline\\custom-timeline.css"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\assets\\css\\dashboard\\dash_1.css",
+      "PackagePath": "staticwebassets\\assets\\css\\dashboard\\dash_1.css"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\assets\\css\\dashboard\\dash_2.css",
+      "PackagePath": "staticwebassets\\assets\\css\\dashboard\\dash_2.css"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\assets\\css\\elements\\alert.css",
+      "PackagePath": "staticwebassets\\assets\\css\\elements\\alert.css"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\assets\\css\\elements\\avatar.css",
+      "PackagePath": "staticwebassets\\assets\\css\\elements\\avatar.css"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\assets\\css\\elements\\breadcrumb.css",
+      "PackagePath": "staticwebassets\\assets\\css\\elements\\breadcrumb.css"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\assets\\css\\elements\\color_library.css",
+      "PackagePath": "staticwebassets\\assets\\css\\elements\\color_library.css"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\assets\\css\\elements\\custom-pagination.css",
+      "PackagePath": "staticwebassets\\assets\\css\\elements\\custom-pagination.css"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\assets\\css\\elements\\custom-tree_view.css",
+      "PackagePath": "staticwebassets\\assets\\css\\elements\\custom-tree_view.css"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\assets\\css\\elements\\custom-typography.css",
+      "PackagePath": "staticwebassets\\assets\\css\\elements\\custom-typography.css"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\assets\\css\\elements\\infobox.css",
+      "PackagePath": "staticwebassets\\assets\\css\\elements\\infobox.css"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\assets\\css\\elements\\miscellaneous.css",
+      "PackagePath": "staticwebassets\\assets\\css\\elements\\miscellaneous.css"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\assets\\css\\elements\\popover.css",
+      "PackagePath": "staticwebassets\\assets\\css\\elements\\popover.css"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\assets\\css\\elements\\search.css",
+      "PackagePath": "staticwebassets\\assets\\css\\elements\\search.css"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\assets\\css\\elements\\tooltip.css",
+      "PackagePath": "staticwebassets\\assets\\css\\elements\\tooltip.css"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\assets\\css\\forms\\bootstrap-form.css",
+      "PackagePath": "staticwebassets\\assets\\css\\forms\\bootstrap-form.css"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\assets\\css\\forms\\custom-clipboard.css",
+      "PackagePath": "staticwebassets\\assets\\css\\forms\\custom-clipboard.css"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\assets\\css\\forms\\switches.css",
+      "PackagePath": "staticwebassets\\assets\\css\\forms\\switches.css"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\assets\\css\\forms\\theme-checkbox-radio.css",
+      "PackagePath": "staticwebassets\\assets\\css\\forms\\theme-checkbox-radio.css"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\assets\\css\\loader.css",
+      "PackagePath": "staticwebassets\\assets\\css\\loader.css"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\assets\\css\\main.css",
+      "PackagePath": "staticwebassets\\assets\\css\\main.css"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\assets\\css\\pages\\coming-soon\\style.css",
+      "PackagePath": "staticwebassets\\assets\\css\\pages\\coming-soon\\style.css"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\assets\\css\\pages\\contact_us.css",
+      "PackagePath": "staticwebassets\\assets\\css\\pages\\contact_us.css"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\assets\\css\\pages\\error\\style-400.css",
+      "PackagePath": "staticwebassets\\assets\\css\\pages\\error\\style-400.css"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\assets\\css\\pages\\error\\style-500.css",
+      "PackagePath": "staticwebassets\\assets\\css\\pages\\error\\style-500.css"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\assets\\css\\pages\\error\\style-503.css",
+      "PackagePath": "staticwebassets\\assets\\css\\pages\\error\\style-503.css"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\assets\\css\\pages\\error\\style-maintanence.css",
+      "PackagePath": "staticwebassets\\assets\\css\\pages\\error\\style-maintanence.css"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\assets\\css\\pages\\faq\\faq.css",
+      "PackagePath": "staticwebassets\\assets\\css\\pages\\faq\\faq.css"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\assets\\css\\pages\\faq\\faq2.css",
+      "PackagePath": "staticwebassets\\assets\\css\\pages\\faq\\faq2.css"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\assets\\css\\pages\\helpdesk.css",
+      "PackagePath": "staticwebassets\\assets\\css\\pages\\helpdesk.css"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\assets\\css\\pages\\privacy\\privacy.css",
+      "PackagePath": "staticwebassets\\assets\\css\\pages\\privacy\\privacy.css"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\assets\\css\\plugins.css",
+      "PackagePath": "staticwebassets\\assets\\css\\plugins.css"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\assets\\css\\scrollspyNav.css",
+      "PackagePath": "staticwebassets\\assets\\css\\scrollspyNav.css"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\assets\\css\\structure.css",
+      "PackagePath": "staticwebassets\\assets\\css\\structure.css"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\assets\\css\\tables\\table-basic.css",
+      "PackagePath": "staticwebassets\\assets\\css\\tables\\table-basic.css"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\assets\\css\\users\\account-setting.css",
+      "PackagePath": "staticwebassets\\assets\\css\\users\\account-setting.css"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\assets\\css\\users\\user-profile.css",
+      "PackagePath": "staticwebassets\\assets\\css\\users\\user-profile.css"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\assets\\css\\widgets\\modules-widgets.css",
+      "PackagePath": "staticwebassets\\assets\\css\\widgets\\modules-widgets.css"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\assets\\img\\120x120.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\120x120.jpg"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\assets\\img\\1280x857.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\1280x857.jpg"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\assets\\img\\175x115.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\175x115.jpg"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\assets\\img\\200x200.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\200x200.jpg"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\assets\\img\\300x300.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\300x300.jpg"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\assets\\img\\350x250.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\350x250.jpg"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\assets\\img\\400x168.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\400x168.jpg"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\assets\\img\\400x300.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\400x300.jpg"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\assets\\img\\509x343.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\509x343.jpg"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\assets\\img\\600x300.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\600x300.jpg"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\assets\\img\\640x426.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\640x426.jpg"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\assets\\img\\90x90.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\90x90.jpg"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\assets\\img\\ab-1.jpeg",
+      "PackagePath": "staticwebassets\\assets\\img\\ab-1.jpeg"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\assets\\img\\arrow-down.png",
+      "PackagePath": "staticwebassets\\assets\\img\\arrow-down.png"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\assets\\img\\bg.png",
+      "PackagePath": "staticwebassets\\assets\\img\\bg.png"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\assets\\img\\ca.png",
+      "PackagePath": "staticwebassets\\assets\\img\\ca.png"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\assets\\img\\contact-us-map-pin.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\contact-us-map-pin.svg"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\assets\\img\\de.png",
+      "PackagePath": "staticwebassets\\assets\\img\\de.png"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\assets\\img\\faq.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\faq.svg"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\assets\\img\\favicon.ico",
+      "PackagePath": "staticwebassets\\assets\\img\\favicon.ico"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\assets\\img\\fr.png",
+      "PackagePath": "staticwebassets\\assets\\img\\fr.png"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\assets\\img\\jp.png",
+      "PackagePath": "staticwebassets\\assets\\img\\jp.png"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\assets\\img\\mindset.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\mindset.svg"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\assets\\js\\app.js",
+      "PackagePath": "staticwebassets\\assets\\js\\app.js"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\assets\\js\\apps\\contact.js",
+      "PackagePath": "staticwebassets\\assets\\js\\apps\\contact.js"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\assets\\js\\apps\\custom-mailbox.js",
+      "PackagePath": "staticwebassets\\assets\\js\\apps\\custom-mailbox.js"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\assets\\js\\apps\\invoice.js",
+      "PackagePath": "staticwebassets\\assets\\js\\apps\\invoice.js"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\assets\\js\\apps\\mailbox-chat.js",
+      "PackagePath": "staticwebassets\\assets\\js\\apps\\mailbox-chat.js"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\assets\\js\\apps\\notes.js",
+      "PackagePath": "staticwebassets\\assets\\js\\apps\\notes.js"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\assets\\js\\apps\\scrumboard.js",
+      "PackagePath": "staticwebassets\\assets\\js\\apps\\scrumboard.js"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\assets\\js\\apps\\todoList.js",
+      "PackagePath": "staticwebassets\\assets\\js\\apps\\todoList.js"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\assets\\js\\authentication\\form-1.js",
+      "PackagePath": "staticwebassets\\assets\\js\\authentication\\form-1.js"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\assets\\js\\authentication\\form-2.js",
+      "PackagePath": "staticwebassets\\assets\\js\\authentication\\form-2.js"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\assets\\js\\clipboard\\clipboard.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\clipboard\\clipboard.min.js"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\assets\\js\\components\\custom-carousel.js",
+      "PackagePath": "staticwebassets\\assets\\js\\components\\custom-carousel.js"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\assets\\js\\components\\custom-countdown.js",
+      "PackagePath": "staticwebassets\\assets\\js\\components\\custom-countdown.js"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\assets\\js\\components\\custom-counter.js",
+      "PackagePath": "staticwebassets\\assets\\js\\components\\custom-counter.js"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\assets\\js\\components\\notification\\custom-snackbar.js",
+      "PackagePath": "staticwebassets\\assets\\js\\components\\notification\\custom-snackbar.js"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\assets\\js\\components\\session-timeout\\bootstrap-session-timeout.js",
+      "PackagePath": "staticwebassets\\assets\\js\\components\\session-timeout\\bootstrap-session-timeout.js"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\assets\\js\\components\\session-timeout\\custom-bootstrap_session_timeout.js",
+      "PackagePath": "staticwebassets\\assets\\js\\components\\session-timeout\\custom-bootstrap_session_timeout.js"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\assets\\js\\components\\ui-accordions.js",
+      "PackagePath": "staticwebassets\\assets\\js\\components\\ui-accordions.js"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\assets\\js\\custom.js",
+      "PackagePath": "staticwebassets\\assets\\js\\custom.js"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\assets\\js\\dashboard\\dash_1.js",
+      "PackagePath": "staticwebassets\\assets\\js\\dashboard\\dash_1.js"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\assets\\js\\dashboard\\dash_2.js",
+      "PackagePath": "staticwebassets\\assets\\js\\dashboard\\dash_2.js"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\assets\\js\\elements\\custom-search.js",
+      "PackagePath": "staticwebassets\\assets\\js\\elements\\custom-search.js"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\assets\\js\\elements\\popovers.js",
+      "PackagePath": "staticwebassets\\assets\\js\\elements\\popovers.js"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\assets\\js\\elements\\tooltip.js",
+      "PackagePath": "staticwebassets\\assets\\js\\elements\\tooltip.js"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\assets\\js\\forms\\bootstrap_validation\\bs_validation_script.js",
+      "PackagePath": "staticwebassets\\assets\\js\\forms\\bootstrap_validation\\bs_validation_script.js"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\assets\\js\\forms\\custom-clipboard.js",
+      "PackagePath": "staticwebassets\\assets\\js\\forms\\custom-clipboard.js"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\assets\\js\\ie11fix\\fn.fix-padStart.js",
+      "PackagePath": "staticwebassets\\assets\\js\\ie11fix\\fn.fix-padStart.js"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\assets\\js\\libs\\jquery-3.1.1.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\libs\\jquery-3.1.1.min.js"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\assets\\js\\libs\\jquery-ui.js",
+      "PackagePath": "staticwebassets\\assets\\js\\libs\\jquery-ui.js"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\assets\\js\\loader.js",
+      "PackagePath": "staticwebassets\\assets\\js\\loader.js"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\assets\\js\\pages\\coming-soon\\coming-soon.js",
+      "PackagePath": "staticwebassets\\assets\\js\\pages\\coming-soon\\coming-soon.js"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\assets\\js\\pages\\faq\\faq.js",
+      "PackagePath": "staticwebassets\\assets\\js\\pages\\faq\\faq.js"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\assets\\js\\pages\\faq\\faq2.js",
+      "PackagePath": "staticwebassets\\assets\\js\\pages\\faq\\faq2.js"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\assets\\js\\pages\\helpdesk.js",
+      "PackagePath": "staticwebassets\\assets\\js\\pages\\helpdesk.js"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\assets\\js\\scrollspyNav.js",
+      "PackagePath": "staticwebassets\\assets\\js\\scrollspyNav.js"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\assets\\js\\users\\account-settings.js",
+      "PackagePath": "staticwebassets\\assets\\js\\users\\account-settings.js"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\assets\\js\\widgets\\modules-widgets.js",
+      "PackagePath": "staticwebassets\\assets\\js\\widgets\\modules-widgets.js"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\bootstrap\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\bootstrap\\css\\bootstrap.css"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\bootstrap\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\bootstrap\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\bootstrap\\js\\bootstrap.js"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\bootstrap\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\bootstrap\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\bootstrap\\js\\popper.min.js",
+      "PackagePath": "staticwebassets\\bootstrap\\js\\popper.min.js"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\animate\\animate.css",
+      "PackagePath": "staticwebassets\\plugins\\animate\\animate.css"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\apex\\apexcharts.css",
+      "PackagePath": "staticwebassets\\plugins\\apex\\apexcharts.css"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\apex\\apexcharts.min.js",
+      "PackagePath": "staticwebassets\\plugins\\apex\\apexcharts.min.js"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\apex\\custom-apexcharts.js",
+      "PackagePath": "staticwebassets\\plugins\\apex\\custom-apexcharts.js"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\autocomplete\\autocomplete.css",
+      "PackagePath": "staticwebassets\\plugins\\autocomplete\\autocomplete.css"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\autocomplete\\countries.js",
+      "PackagePath": "staticwebassets\\plugins\\autocomplete\\countries.js"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\autocomplete\\demo.js",
+      "PackagePath": "staticwebassets\\plugins\\autocomplete\\demo.js"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\autocomplete\\jquery.autocomplete.js",
+      "PackagePath": "staticwebassets\\plugins\\autocomplete\\jquery.autocomplete.js"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\autocomplete\\jquery.mockjax.js",
+      "PackagePath": "staticwebassets\\plugins\\autocomplete\\jquery.mockjax.js"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\blockui\\custom-blockui.js",
+      "PackagePath": "staticwebassets\\plugins\\blockui\\custom-blockui.js"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\blockui\\jquery.blockUI.min.js",
+      "PackagePath": "staticwebassets\\plugins\\blockui\\jquery.blockUI.min.js"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\bootstrap-maxlength\\bootstrap-maxlength.js",
+      "PackagePath": "staticwebassets\\plugins\\bootstrap-maxlength\\bootstrap-maxlength.js"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\bootstrap-maxlength\\custom-bs-maxlength.js",
+      "PackagePath": "staticwebassets\\plugins\\bootstrap-maxlength\\custom-bs-maxlength.js"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\bootstrap-multiselect\\bootstrap-multiselect.min.js",
+      "PackagePath": "staticwebassets\\plugins\\bootstrap-multiselect\\bootstrap-multiselect.min.js"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\bootstrap-range-Slider\\bootstrap-rangeSlider.js",
+      "PackagePath": "staticwebassets\\plugins\\bootstrap-range-Slider\\bootstrap-rangeSlider.js"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\bootstrap-range-Slider\\bootstrap-slider.css",
+      "PackagePath": "staticwebassets\\plugins\\bootstrap-range-Slider\\bootstrap-slider.css"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\bootstrap-select\\bootstrap-select.min.css",
+      "PackagePath": "staticwebassets\\plugins\\bootstrap-select\\bootstrap-select.min.css"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\bootstrap-select\\bootstrap-select.min.js",
+      "PackagePath": "staticwebassets\\plugins\\bootstrap-select\\bootstrap-select.min.js"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\bootstrap-touchspin\\custom-bootstrap-touchspin.js",
+      "PackagePath": "staticwebassets\\plugins\\bootstrap-touchspin\\custom-bootstrap-touchspin.js"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\bootstrap-touchspin\\jquery.bootstrap-touchspin.min.css",
+      "PackagePath": "staticwebassets\\plugins\\bootstrap-touchspin\\jquery.bootstrap-touchspin.min.css"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\bootstrap-touchspin\\jquery.bootstrap-touchspin.min.js",
+      "PackagePath": "staticwebassets\\plugins\\bootstrap-touchspin\\jquery.bootstrap-touchspin.min.js"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\countdown\\jquery.countdown.min.js",
+      "PackagePath": "staticwebassets\\plugins\\countdown\\jquery.countdown.min.js"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\counter\\jquery.countTo.js",
+      "PackagePath": "staticwebassets\\plugins\\counter\\jquery.countTo.js"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\drag-and-drop\\dragula\\crossvent.js",
+      "PackagePath": "staticwebassets\\plugins\\drag-and-drop\\dragula\\crossvent.js"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\drag-and-drop\\dragula\\crossvent.min.js",
+      "PackagePath": "staticwebassets\\plugins\\drag-and-drop\\dragula\\crossvent.min.js"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\drag-and-drop\\dragula\\custom-dragula.js",
+      "PackagePath": "staticwebassets\\plugins\\drag-and-drop\\dragula\\custom-dragula.js"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\drag-and-drop\\dragula\\dragula.css",
+      "PackagePath": "staticwebassets\\plugins\\drag-and-drop\\dragula\\dragula.css"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\drag-and-drop\\dragula\\dragula.js",
+      "PackagePath": "staticwebassets\\plugins\\drag-and-drop\\dragula\\dragula.js"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\drag-and-drop\\dragula\\dragula.min.js",
+      "PackagePath": "staticwebassets\\plugins\\drag-and-drop\\dragula\\dragula.min.js"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\drag-and-drop\\dragula\\example.css",
+      "PackagePath": "staticwebassets\\plugins\\drag-and-drop\\dragula\\example.css"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\dropify\\dropify.min.css",
+      "PackagePath": "staticwebassets\\plugins\\dropify\\dropify.min.css"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\dropify\\dropify.min.js",
+      "PackagePath": "staticwebassets\\plugins\\dropify\\dropify.min.js"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\dropify\\fonts\\dropify.eot",
+      "PackagePath": "staticwebassets\\plugins\\dropify\\fonts\\dropify.eot"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\dropify\\fonts\\dropify.svg",
+      "PackagePath": "staticwebassets\\plugins\\dropify\\fonts\\dropify.svg"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\dropify\\fonts\\dropify.ttf",
+      "PackagePath": "staticwebassets\\plugins\\dropify\\fonts\\dropify.ttf"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\dropify\\fonts\\dropify.woff",
+      "PackagePath": "staticwebassets\\plugins\\dropify\\fonts\\dropify.woff"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\editors\\markdown\\custom-markdown.js",
+      "PackagePath": "staticwebassets\\plugins\\editors\\markdown\\custom-markdown.js"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\editors\\markdown\\simplemde.min.css",
+      "PackagePath": "staticwebassets\\plugins\\editors\\markdown\\simplemde.min.css"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\editors\\markdown\\simplemde.min.js",
+      "PackagePath": "staticwebassets\\plugins\\editors\\markdown\\simplemde.min.js"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\editors\\quill\\custom-quill.js",
+      "PackagePath": "staticwebassets\\plugins\\editors\\quill\\custom-quill.js"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\editors\\quill\\quill.bubble.css",
+      "PackagePath": "staticwebassets\\plugins\\editors\\quill\\quill.bubble.css"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\editors\\quill\\quill.js",
+      "PackagePath": "staticwebassets\\plugins\\editors\\quill\\quill.js"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\editors\\quill\\quill.snow.css",
+      "PackagePath": "staticwebassets\\plugins\\editors\\quill\\quill.snow.css"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\file-upload\\file-upload-with-preview.min.css",
+      "PackagePath": "staticwebassets\\plugins\\file-upload\\file-upload-with-preview.min.css"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\file-upload\\file-upload-with-preview.min.js",
+      "PackagePath": "staticwebassets\\plugins\\file-upload\\file-upload-with-preview.min.js"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\flatpickr\\custom-flatpickr.css",
+      "PackagePath": "staticwebassets\\plugins\\flatpickr\\custom-flatpickr.css"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\flatpickr\\custom-flatpickr.js",
+      "PackagePath": "staticwebassets\\plugins\\flatpickr\\custom-flatpickr.js"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\flatpickr\\flatpickr.css",
+      "PackagePath": "staticwebassets\\plugins\\flatpickr\\flatpickr.css"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\flatpickr\\flatpickr.js",
+      "PackagePath": "staticwebassets\\plugins\\flatpickr\\flatpickr.js"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\font-icons\\feather\\activity.svg",
+      "PackagePath": "staticwebassets\\plugins\\font-icons\\feather\\activity.svg"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\font-icons\\feather\\airplay.svg",
+      "PackagePath": "staticwebassets\\plugins\\font-icons\\feather\\airplay.svg"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\font-icons\\feather\\alert-circle.svg",
+      "PackagePath": "staticwebassets\\plugins\\font-icons\\feather\\alert-circle.svg"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\font-icons\\feather\\alert-octagon.svg",
+      "PackagePath": "staticwebassets\\plugins\\font-icons\\feather\\alert-octagon.svg"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\font-icons\\feather\\alert-triangle.svg",
+      "PackagePath": "staticwebassets\\plugins\\font-icons\\feather\\alert-triangle.svg"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\font-icons\\feather\\align-center.svg",
+      "PackagePath": "staticwebassets\\plugins\\font-icons\\feather\\align-center.svg"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\font-icons\\feather\\align-justify.svg",
+      "PackagePath": "staticwebassets\\plugins\\font-icons\\feather\\align-justify.svg"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\font-icons\\feather\\align-left.svg",
+      "PackagePath": "staticwebassets\\plugins\\font-icons\\feather\\align-left.svg"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\font-icons\\feather\\align-right.svg",
+      "PackagePath": "staticwebassets\\plugins\\font-icons\\feather\\align-right.svg"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\font-icons\\feather\\anchor.svg",
+      "PackagePath": "staticwebassets\\plugins\\font-icons\\feather\\anchor.svg"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\font-icons\\feather\\aperture.svg",
+      "PackagePath": "staticwebassets\\plugins\\font-icons\\feather\\aperture.svg"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\font-icons\\feather\\archive.svg",
+      "PackagePath": "staticwebassets\\plugins\\font-icons\\feather\\archive.svg"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\font-icons\\feather\\arrow-down-circle.svg",
+      "PackagePath": "staticwebassets\\plugins\\font-icons\\feather\\arrow-down-circle.svg"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\font-icons\\feather\\arrow-down-left.svg",
+      "PackagePath": "staticwebassets\\plugins\\font-icons\\feather\\arrow-down-left.svg"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\font-icons\\feather\\arrow-down-right.svg",
+      "PackagePath": "staticwebassets\\plugins\\font-icons\\feather\\arrow-down-right.svg"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\font-icons\\feather\\arrow-down.svg",
+      "PackagePath": "staticwebassets\\plugins\\font-icons\\feather\\arrow-down.svg"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\font-icons\\feather\\arrow-left-circle.svg",
+      "PackagePath": "staticwebassets\\plugins\\font-icons\\feather\\arrow-left-circle.svg"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\font-icons\\feather\\arrow-left.svg",
+      "PackagePath": "staticwebassets\\plugins\\font-icons\\feather\\arrow-left.svg"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\font-icons\\feather\\arrow-right-circle.svg",
+      "PackagePath": "staticwebassets\\plugins\\font-icons\\feather\\arrow-right-circle.svg"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\font-icons\\feather\\arrow-right.svg",
+      "PackagePath": "staticwebassets\\plugins\\font-icons\\feather\\arrow-right.svg"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\font-icons\\feather\\arrow-up-circle.svg",
+      "PackagePath": "staticwebassets\\plugins\\font-icons\\feather\\arrow-up-circle.svg"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\font-icons\\feather\\arrow-up-left.svg",
+      "PackagePath": "staticwebassets\\plugins\\font-icons\\feather\\arrow-up-left.svg"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\font-icons\\feather\\arrow-up-right.svg",
+      "PackagePath": "staticwebassets\\plugins\\font-icons\\feather\\arrow-up-right.svg"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\font-icons\\feather\\arrow-up.svg",
+      "PackagePath": "staticwebassets\\plugins\\font-icons\\feather\\arrow-up.svg"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\font-icons\\feather\\at-sign.svg",
+      "PackagePath": "staticwebassets\\plugins\\font-icons\\feather\\at-sign.svg"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\font-icons\\feather\\award.svg",
+      "PackagePath": "staticwebassets\\plugins\\font-icons\\feather\\award.svg"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\font-icons\\feather\\bar-chart-2.svg",
+      "PackagePath": "staticwebassets\\plugins\\font-icons\\feather\\bar-chart-2.svg"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\font-icons\\feather\\bar-chart.svg",
+      "PackagePath": "staticwebassets\\plugins\\font-icons\\feather\\bar-chart.svg"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\font-icons\\feather\\battery-charging.svg",
+      "PackagePath": "staticwebassets\\plugins\\font-icons\\feather\\battery-charging.svg"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\font-icons\\feather\\battery.svg",
+      "PackagePath": "staticwebassets\\plugins\\font-icons\\feather\\battery.svg"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\font-icons\\feather\\bell-off.svg",
+      "PackagePath": "staticwebassets\\plugins\\font-icons\\feather\\bell-off.svg"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\font-icons\\feather\\bell.svg",
+      "PackagePath": "staticwebassets\\plugins\\font-icons\\feather\\bell.svg"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\font-icons\\feather\\bluetooth.svg",
+      "PackagePath": "staticwebassets\\plugins\\font-icons\\feather\\bluetooth.svg"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\font-icons\\feather\\bold.svg",
+      "PackagePath": "staticwebassets\\plugins\\font-icons\\feather\\bold.svg"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\font-icons\\feather\\book-open.svg",
+      "PackagePath": "staticwebassets\\plugins\\font-icons\\feather\\book-open.svg"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\font-icons\\feather\\book.svg",
+      "PackagePath": "staticwebassets\\plugins\\font-icons\\feather\\book.svg"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\font-icons\\feather\\bookmark.svg",
+      "PackagePath": "staticwebassets\\plugins\\font-icons\\feather\\bookmark.svg"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\font-icons\\feather\\box.svg",
+      "PackagePath": "staticwebassets\\plugins\\font-icons\\feather\\box.svg"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\font-icons\\feather\\briefcase.svg",
+      "PackagePath": "staticwebassets\\plugins\\font-icons\\feather\\briefcase.svg"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\font-icons\\feather\\calendar.svg",
+      "PackagePath": "staticwebassets\\plugins\\font-icons\\feather\\calendar.svg"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\font-icons\\feather\\camera-off.svg",
+      "PackagePath": "staticwebassets\\plugins\\font-icons\\feather\\camera-off.svg"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\font-icons\\feather\\camera.svg",
+      "PackagePath": "staticwebassets\\plugins\\font-icons\\feather\\camera.svg"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\font-icons\\feather\\cast.svg",
+      "PackagePath": "staticwebassets\\plugins\\font-icons\\feather\\cast.svg"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\font-icons\\feather\\check-circle.svg",
+      "PackagePath": "staticwebassets\\plugins\\font-icons\\feather\\check-circle.svg"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\font-icons\\feather\\check-square.svg",
+      "PackagePath": "staticwebassets\\plugins\\font-icons\\feather\\check-square.svg"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\font-icons\\feather\\check.svg",
+      "PackagePath": "staticwebassets\\plugins\\font-icons\\feather\\check.svg"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\font-icons\\feather\\chevron-down.svg",
+      "PackagePath": "staticwebassets\\plugins\\font-icons\\feather\\chevron-down.svg"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\font-icons\\feather\\chevron-left.svg",
+      "PackagePath": "staticwebassets\\plugins\\font-icons\\feather\\chevron-left.svg"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\font-icons\\feather\\chevron-right.svg",
+      "PackagePath": "staticwebassets\\plugins\\font-icons\\feather\\chevron-right.svg"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\font-icons\\feather\\chevron-up.svg",
+      "PackagePath": "staticwebassets\\plugins\\font-icons\\feather\\chevron-up.svg"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\font-icons\\feather\\chevrons-down.svg",
+      "PackagePath": "staticwebassets\\plugins\\font-icons\\feather\\chevrons-down.svg"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\font-icons\\feather\\chevrons-left.svg",
+      "PackagePath": "staticwebassets\\plugins\\font-icons\\feather\\chevrons-left.svg"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\font-icons\\feather\\chevrons-right.svg",
+      "PackagePath": "staticwebassets\\plugins\\font-icons\\feather\\chevrons-right.svg"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\font-icons\\feather\\chevrons-up.svg",
+      "PackagePath": "staticwebassets\\plugins\\font-icons\\feather\\chevrons-up.svg"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\font-icons\\feather\\chrome.svg",
+      "PackagePath": "staticwebassets\\plugins\\font-icons\\feather\\chrome.svg"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\font-icons\\feather\\circle.svg",
+      "PackagePath": "staticwebassets\\plugins\\font-icons\\feather\\circle.svg"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\font-icons\\feather\\clipboard.svg",
+      "PackagePath": "staticwebassets\\plugins\\font-icons\\feather\\clipboard.svg"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\font-icons\\feather\\clock.svg",
+      "PackagePath": "staticwebassets\\plugins\\font-icons\\feather\\clock.svg"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\font-icons\\feather\\cloud-drizzle.svg",
+      "PackagePath": "staticwebassets\\plugins\\font-icons\\feather\\cloud-drizzle.svg"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\font-icons\\feather\\cloud-lightning.svg",
+      "PackagePath": "staticwebassets\\plugins\\font-icons\\feather\\cloud-lightning.svg"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\font-icons\\feather\\cloud-off.svg",
+      "PackagePath": "staticwebassets\\plugins\\font-icons\\feather\\cloud-off.svg"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\font-icons\\feather\\cloud-rain.svg",
+      "PackagePath": "staticwebassets\\plugins\\font-icons\\feather\\cloud-rain.svg"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\font-icons\\feather\\cloud-snow.svg",
+      "PackagePath": "staticwebassets\\plugins\\font-icons\\feather\\cloud-snow.svg"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\font-icons\\feather\\cloud.svg",
+      "PackagePath": "staticwebassets\\plugins\\font-icons\\feather\\cloud.svg"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\font-icons\\feather\\code.svg",
+      "PackagePath": "staticwebassets\\plugins\\font-icons\\feather\\code.svg"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\font-icons\\feather\\codepen.svg",
+      "PackagePath": "staticwebassets\\plugins\\font-icons\\feather\\codepen.svg"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\font-icons\\feather\\codesandbox.svg",
+      "PackagePath": "staticwebassets\\plugins\\font-icons\\feather\\codesandbox.svg"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\font-icons\\feather\\coffee.svg",
+      "PackagePath": "staticwebassets\\plugins\\font-icons\\feather\\coffee.svg"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\font-icons\\feather\\columns.svg",
+      "PackagePath": "staticwebassets\\plugins\\font-icons\\feather\\columns.svg"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\font-icons\\feather\\command.svg",
+      "PackagePath": "staticwebassets\\plugins\\font-icons\\feather\\command.svg"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\font-icons\\feather\\compass.svg",
+      "PackagePath": "staticwebassets\\plugins\\font-icons\\feather\\compass.svg"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\font-icons\\feather\\copy.svg",
+      "PackagePath": "staticwebassets\\plugins\\font-icons\\feather\\copy.svg"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\font-icons\\feather\\corner-down-left.svg",
+      "PackagePath": "staticwebassets\\plugins\\font-icons\\feather\\corner-down-left.svg"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\font-icons\\feather\\corner-down-right.svg",
+      "PackagePath": "staticwebassets\\plugins\\font-icons\\feather\\corner-down-right.svg"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\font-icons\\feather\\corner-left-down.svg",
+      "PackagePath": "staticwebassets\\plugins\\font-icons\\feather\\corner-left-down.svg"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\font-icons\\feather\\corner-left-up.svg",
+      "PackagePath": "staticwebassets\\plugins\\font-icons\\feather\\corner-left-up.svg"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\font-icons\\feather\\corner-right-down.svg",
+      "PackagePath": "staticwebassets\\plugins\\font-icons\\feather\\corner-right-down.svg"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\font-icons\\feather\\corner-right-up.svg",
+      "PackagePath": "staticwebassets\\plugins\\font-icons\\feather\\corner-right-up.svg"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\font-icons\\feather\\corner-up-left.svg",
+      "PackagePath": "staticwebassets\\plugins\\font-icons\\feather\\corner-up-left.svg"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\font-icons\\feather\\corner-up-right.svg",
+      "PackagePath": "staticwebassets\\plugins\\font-icons\\feather\\corner-up-right.svg"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\font-icons\\feather\\cpu.svg",
+      "PackagePath": "staticwebassets\\plugins\\font-icons\\feather\\cpu.svg"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\font-icons\\feather\\credit-card.svg",
+      "PackagePath": "staticwebassets\\plugins\\font-icons\\feather\\credit-card.svg"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\font-icons\\feather\\crop.svg",
+      "PackagePath": "staticwebassets\\plugins\\font-icons\\feather\\crop.svg"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\font-icons\\feather\\crosshair.svg",
+      "PackagePath": "staticwebassets\\plugins\\font-icons\\feather\\crosshair.svg"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\font-icons\\feather\\database.svg",
+      "PackagePath": "staticwebassets\\plugins\\font-icons\\feather\\database.svg"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\font-icons\\feather\\delete.svg",
+      "PackagePath": "staticwebassets\\plugins\\font-icons\\feather\\delete.svg"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\font-icons\\feather\\disc.svg",
+      "PackagePath": "staticwebassets\\plugins\\font-icons\\feather\\disc.svg"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\font-icons\\feather\\dollar-sign.svg",
+      "PackagePath": "staticwebassets\\plugins\\font-icons\\feather\\dollar-sign.svg"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\font-icons\\feather\\download-cloud.svg",
+      "PackagePath": "staticwebassets\\plugins\\font-icons\\feather\\download-cloud.svg"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\font-icons\\feather\\download.svg",
+      "PackagePath": "staticwebassets\\plugins\\font-icons\\feather\\download.svg"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\font-icons\\feather\\droplet.svg",
+      "PackagePath": "staticwebassets\\plugins\\font-icons\\feather\\droplet.svg"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\font-icons\\feather\\edit-2.svg",
+      "PackagePath": "staticwebassets\\plugins\\font-icons\\feather\\edit-2.svg"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\font-icons\\feather\\edit-3.svg",
+      "PackagePath": "staticwebassets\\plugins\\font-icons\\feather\\edit-3.svg"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\font-icons\\feather\\edit.svg",
+      "PackagePath": "staticwebassets\\plugins\\font-icons\\feather\\edit.svg"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\font-icons\\feather\\external-link.svg",
+      "PackagePath": "staticwebassets\\plugins\\font-icons\\feather\\external-link.svg"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\font-icons\\feather\\eye-off.svg",
+      "PackagePath": "staticwebassets\\plugins\\font-icons\\feather\\eye-off.svg"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\font-icons\\feather\\eye.svg",
+      "PackagePath": "staticwebassets\\plugins\\font-icons\\feather\\eye.svg"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\font-icons\\feather\\facebook.svg",
+      "PackagePath": "staticwebassets\\plugins\\font-icons\\feather\\facebook.svg"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\font-icons\\feather\\fast-forward.svg",
+      "PackagePath": "staticwebassets\\plugins\\font-icons\\feather\\fast-forward.svg"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\font-icons\\feather\\feather.min.js",
+      "PackagePath": "staticwebassets\\plugins\\font-icons\\feather\\feather.min.js"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\font-icons\\feather\\feather.svg",
+      "PackagePath": "staticwebassets\\plugins\\font-icons\\feather\\feather.svg"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\font-icons\\feather\\figma.svg",
+      "PackagePath": "staticwebassets\\plugins\\font-icons\\feather\\figma.svg"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\font-icons\\feather\\file-minus.svg",
+      "PackagePath": "staticwebassets\\plugins\\font-icons\\feather\\file-minus.svg"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\font-icons\\feather\\file-plus.svg",
+      "PackagePath": "staticwebassets\\plugins\\font-icons\\feather\\file-plus.svg"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\font-icons\\feather\\file-text.svg",
+      "PackagePath": "staticwebassets\\plugins\\font-icons\\feather\\file-text.svg"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\font-icons\\feather\\file.svg",
+      "PackagePath": "staticwebassets\\plugins\\font-icons\\feather\\file.svg"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\font-icons\\feather\\film.svg",
+      "PackagePath": "staticwebassets\\plugins\\font-icons\\feather\\film.svg"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\font-icons\\feather\\filter.svg",
+      "PackagePath": "staticwebassets\\plugins\\font-icons\\feather\\filter.svg"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\font-icons\\feather\\flag.svg",
+      "PackagePath": "staticwebassets\\plugins\\font-icons\\feather\\flag.svg"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\font-icons\\feather\\folder-minus.svg",
+      "PackagePath": "staticwebassets\\plugins\\font-icons\\feather\\folder-minus.svg"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\font-icons\\feather\\folder-plus.svg",
+      "PackagePath": "staticwebassets\\plugins\\font-icons\\feather\\folder-plus.svg"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\font-icons\\feather\\folder.svg",
+      "PackagePath": "staticwebassets\\plugins\\font-icons\\feather\\folder.svg"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\font-icons\\feather\\framer.svg",
+      "PackagePath": "staticwebassets\\plugins\\font-icons\\feather\\framer.svg"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\font-icons\\feather\\frown.svg",
+      "PackagePath": "staticwebassets\\plugins\\font-icons\\feather\\frown.svg"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\font-icons\\feather\\gift.svg",
+      "PackagePath": "staticwebassets\\plugins\\font-icons\\feather\\gift.svg"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\font-icons\\feather\\git-branch.svg",
+      "PackagePath": "staticwebassets\\plugins\\font-icons\\feather\\git-branch.svg"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\font-icons\\feather\\git-commit.svg",
+      "PackagePath": "staticwebassets\\plugins\\font-icons\\feather\\git-commit.svg"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\font-icons\\feather\\git-merge.svg",
+      "PackagePath": "staticwebassets\\plugins\\font-icons\\feather\\git-merge.svg"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\font-icons\\feather\\git-pull-request.svg",
+      "PackagePath": "staticwebassets\\plugins\\font-icons\\feather\\git-pull-request.svg"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\font-icons\\feather\\github.svg",
+      "PackagePath": "staticwebassets\\plugins\\font-icons\\feather\\github.svg"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\font-icons\\feather\\gitlab.svg",
+      "PackagePath": "staticwebassets\\plugins\\font-icons\\feather\\gitlab.svg"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\font-icons\\feather\\globe.svg",
+      "PackagePath": "staticwebassets\\plugins\\font-icons\\feather\\globe.svg"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\font-icons\\feather\\grid.svg",
+      "PackagePath": "staticwebassets\\plugins\\font-icons\\feather\\grid.svg"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\font-icons\\feather\\hard-drive.svg",
+      "PackagePath": "staticwebassets\\plugins\\font-icons\\feather\\hard-drive.svg"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\font-icons\\feather\\hash.svg",
+      "PackagePath": "staticwebassets\\plugins\\font-icons\\feather\\hash.svg"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\font-icons\\feather\\headphones.svg",
+      "PackagePath": "staticwebassets\\plugins\\font-icons\\feather\\headphones.svg"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\font-icons\\feather\\heart.svg",
+      "PackagePath": "staticwebassets\\plugins\\font-icons\\feather\\heart.svg"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\font-icons\\feather\\help-circle.svg",
+      "PackagePath": "staticwebassets\\plugins\\font-icons\\feather\\help-circle.svg"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\font-icons\\feather\\hexagon.svg",
+      "PackagePath": "staticwebassets\\plugins\\font-icons\\feather\\hexagon.svg"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\font-icons\\feather\\home.svg",
+      "PackagePath": "staticwebassets\\plugins\\font-icons\\feather\\home.svg"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\font-icons\\feather\\image.svg",
+      "PackagePath": "staticwebassets\\plugins\\font-icons\\feather\\image.svg"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\font-icons\\feather\\inbox.svg",
+      "PackagePath": "staticwebassets\\plugins\\font-icons\\feather\\inbox.svg"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\font-icons\\feather\\info.svg",
+      "PackagePath": "staticwebassets\\plugins\\font-icons\\feather\\info.svg"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\font-icons\\feather\\instagram.svg",
+      "PackagePath": "staticwebassets\\plugins\\font-icons\\feather\\instagram.svg"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\font-icons\\feather\\italic.svg",
+      "PackagePath": "staticwebassets\\plugins\\font-icons\\feather\\italic.svg"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\font-icons\\feather\\key.svg",
+      "PackagePath": "staticwebassets\\plugins\\font-icons\\feather\\key.svg"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\font-icons\\feather\\layers.svg",
+      "PackagePath": "staticwebassets\\plugins\\font-icons\\feather\\layers.svg"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\font-icons\\feather\\layout.svg",
+      "PackagePath": "staticwebassets\\plugins\\font-icons\\feather\\layout.svg"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\font-icons\\feather\\life-buoy.svg",
+      "PackagePath": "staticwebassets\\plugins\\font-icons\\feather\\life-buoy.svg"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\font-icons\\feather\\link-2.svg",
+      "PackagePath": "staticwebassets\\plugins\\font-icons\\feather\\link-2.svg"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\font-icons\\feather\\link.svg",
+      "PackagePath": "staticwebassets\\plugins\\font-icons\\feather\\link.svg"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\font-icons\\feather\\linkedin.svg",
+      "PackagePath": "staticwebassets\\plugins\\font-icons\\feather\\linkedin.svg"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\font-icons\\feather\\list.svg",
+      "PackagePath": "staticwebassets\\plugins\\font-icons\\feather\\list.svg"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\font-icons\\feather\\loader.svg",
+      "PackagePath": "staticwebassets\\plugins\\font-icons\\feather\\loader.svg"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\font-icons\\feather\\lock.svg",
+      "PackagePath": "staticwebassets\\plugins\\font-icons\\feather\\lock.svg"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\font-icons\\feather\\log-in.svg",
+      "PackagePath": "staticwebassets\\plugins\\font-icons\\feather\\log-in.svg"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\font-icons\\feather\\log-out.svg",
+      "PackagePath": "staticwebassets\\plugins\\font-icons\\feather\\log-out.svg"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\font-icons\\feather\\mail.svg",
+      "PackagePath": "staticwebassets\\plugins\\font-icons\\feather\\mail.svg"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\font-icons\\feather\\map-pin.svg",
+      "PackagePath": "staticwebassets\\plugins\\font-icons\\feather\\map-pin.svg"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\font-icons\\feather\\map.svg",
+      "PackagePath": "staticwebassets\\plugins\\font-icons\\feather\\map.svg"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\font-icons\\feather\\maximize-2.svg",
+      "PackagePath": "staticwebassets\\plugins\\font-icons\\feather\\maximize-2.svg"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\font-icons\\feather\\maximize.svg",
+      "PackagePath": "staticwebassets\\plugins\\font-icons\\feather\\maximize.svg"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\font-icons\\feather\\meh.svg",
+      "PackagePath": "staticwebassets\\plugins\\font-icons\\feather\\meh.svg"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\font-icons\\feather\\menu.svg",
+      "PackagePath": "staticwebassets\\plugins\\font-icons\\feather\\menu.svg"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\font-icons\\feather\\message-circle.svg",
+      "PackagePath": "staticwebassets\\plugins\\font-icons\\feather\\message-circle.svg"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\font-icons\\feather\\message-square.svg",
+      "PackagePath": "staticwebassets\\plugins\\font-icons\\feather\\message-square.svg"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\font-icons\\feather\\mic-off.svg",
+      "PackagePath": "staticwebassets\\plugins\\font-icons\\feather\\mic-off.svg"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\font-icons\\feather\\mic.svg",
+      "PackagePath": "staticwebassets\\plugins\\font-icons\\feather\\mic.svg"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\font-icons\\feather\\minimize-2.svg",
+      "PackagePath": "staticwebassets\\plugins\\font-icons\\feather\\minimize-2.svg"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\font-icons\\feather\\minimize.svg",
+      "PackagePath": "staticwebassets\\plugins\\font-icons\\feather\\minimize.svg"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\font-icons\\feather\\minus-circle.svg",
+      "PackagePath": "staticwebassets\\plugins\\font-icons\\feather\\minus-circle.svg"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\font-icons\\feather\\minus-square.svg",
+      "PackagePath": "staticwebassets\\plugins\\font-icons\\feather\\minus-square.svg"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\font-icons\\feather\\minus.svg",
+      "PackagePath": "staticwebassets\\plugins\\font-icons\\feather\\minus.svg"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\font-icons\\feather\\monitor.svg",
+      "PackagePath": "staticwebassets\\plugins\\font-icons\\feather\\monitor.svg"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\font-icons\\feather\\moon.svg",
+      "PackagePath": "staticwebassets\\plugins\\font-icons\\feather\\moon.svg"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\font-icons\\feather\\more-horizontal.svg",
+      "PackagePath": "staticwebassets\\plugins\\font-icons\\feather\\more-horizontal.svg"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\font-icons\\feather\\more-vertical.svg",
+      "PackagePath": "staticwebassets\\plugins\\font-icons\\feather\\more-vertical.svg"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\font-icons\\feather\\mouse-pointer.svg",
+      "PackagePath": "staticwebassets\\plugins\\font-icons\\feather\\mouse-pointer.svg"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\font-icons\\feather\\move.svg",
+      "PackagePath": "staticwebassets\\plugins\\font-icons\\feather\\move.svg"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\font-icons\\feather\\music.svg",
+      "PackagePath": "staticwebassets\\plugins\\font-icons\\feather\\music.svg"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\font-icons\\feather\\navigation-2.svg",
+      "PackagePath": "staticwebassets\\plugins\\font-icons\\feather\\navigation-2.svg"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\font-icons\\feather\\navigation.svg",
+      "PackagePath": "staticwebassets\\plugins\\font-icons\\feather\\navigation.svg"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\font-icons\\feather\\octagon.svg",
+      "PackagePath": "staticwebassets\\plugins\\font-icons\\feather\\octagon.svg"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\font-icons\\feather\\package.svg",
+      "PackagePath": "staticwebassets\\plugins\\font-icons\\feather\\package.svg"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\font-icons\\feather\\paperclip.svg",
+      "PackagePath": "staticwebassets\\plugins\\font-icons\\feather\\paperclip.svg"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\font-icons\\feather\\pause-circle.svg",
+      "PackagePath": "staticwebassets\\plugins\\font-icons\\feather\\pause-circle.svg"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\font-icons\\feather\\pause.svg",
+      "PackagePath": "staticwebassets\\plugins\\font-icons\\feather\\pause.svg"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\font-icons\\feather\\pen-tool.svg",
+      "PackagePath": "staticwebassets\\plugins\\font-icons\\feather\\pen-tool.svg"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\font-icons\\feather\\percent.svg",
+      "PackagePath": "staticwebassets\\plugins\\font-icons\\feather\\percent.svg"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\font-icons\\feather\\phone-call.svg",
+      "PackagePath": "staticwebassets\\plugins\\font-icons\\feather\\phone-call.svg"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\font-icons\\feather\\phone-forwarded.svg",
+      "PackagePath": "staticwebassets\\plugins\\font-icons\\feather\\phone-forwarded.svg"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\font-icons\\feather\\phone-incoming.svg",
+      "PackagePath": "staticwebassets\\plugins\\font-icons\\feather\\phone-incoming.svg"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\font-icons\\feather\\phone-missed.svg",
+      "PackagePath": "staticwebassets\\plugins\\font-icons\\feather\\phone-missed.svg"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\font-icons\\feather\\phone-off.svg",
+      "PackagePath": "staticwebassets\\plugins\\font-icons\\feather\\phone-off.svg"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\font-icons\\feather\\phone-outgoing.svg",
+      "PackagePath": "staticwebassets\\plugins\\font-icons\\feather\\phone-outgoing.svg"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\font-icons\\feather\\phone.svg",
+      "PackagePath": "staticwebassets\\plugins\\font-icons\\feather\\phone.svg"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\font-icons\\feather\\pie-chart.svg",
+      "PackagePath": "staticwebassets\\plugins\\font-icons\\feather\\pie-chart.svg"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\font-icons\\feather\\play-circle.svg",
+      "PackagePath": "staticwebassets\\plugins\\font-icons\\feather\\play-circle.svg"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\font-icons\\feather\\play.svg",
+      "PackagePath": "staticwebassets\\plugins\\font-icons\\feather\\play.svg"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\font-icons\\feather\\plus-circle.svg",
+      "PackagePath": "staticwebassets\\plugins\\font-icons\\feather\\plus-circle.svg"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\font-icons\\feather\\plus-square.svg",
+      "PackagePath": "staticwebassets\\plugins\\font-icons\\feather\\plus-square.svg"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\font-icons\\feather\\plus.svg",
+      "PackagePath": "staticwebassets\\plugins\\font-icons\\feather\\plus.svg"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\font-icons\\feather\\pocket.svg",
+      "PackagePath": "staticwebassets\\plugins\\font-icons\\feather\\pocket.svg"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\font-icons\\feather\\power.svg",
+      "PackagePath": "staticwebassets\\plugins\\font-icons\\feather\\power.svg"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\font-icons\\feather\\printer.svg",
+      "PackagePath": "staticwebassets\\plugins\\font-icons\\feather\\printer.svg"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\font-icons\\feather\\radio.svg",
+      "PackagePath": "staticwebassets\\plugins\\font-icons\\feather\\radio.svg"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\font-icons\\feather\\refresh-ccw.svg",
+      "PackagePath": "staticwebassets\\plugins\\font-icons\\feather\\refresh-ccw.svg"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\font-icons\\feather\\refresh-cw.svg",
+      "PackagePath": "staticwebassets\\plugins\\font-icons\\feather\\refresh-cw.svg"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\font-icons\\feather\\repeat.svg",
+      "PackagePath": "staticwebassets\\plugins\\font-icons\\feather\\repeat.svg"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\font-icons\\feather\\rewind.svg",
+      "PackagePath": "staticwebassets\\plugins\\font-icons\\feather\\rewind.svg"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\font-icons\\feather\\rotate-ccw.svg",
+      "PackagePath": "staticwebassets\\plugins\\font-icons\\feather\\rotate-ccw.svg"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\font-icons\\feather\\rotate-cw.svg",
+      "PackagePath": "staticwebassets\\plugins\\font-icons\\feather\\rotate-cw.svg"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\font-icons\\feather\\rss.svg",
+      "PackagePath": "staticwebassets\\plugins\\font-icons\\feather\\rss.svg"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\font-icons\\feather\\save.svg",
+      "PackagePath": "staticwebassets\\plugins\\font-icons\\feather\\save.svg"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\font-icons\\feather\\scissors.svg",
+      "PackagePath": "staticwebassets\\plugins\\font-icons\\feather\\scissors.svg"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\font-icons\\feather\\search.svg",
+      "PackagePath": "staticwebassets\\plugins\\font-icons\\feather\\search.svg"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\font-icons\\feather\\send.svg",
+      "PackagePath": "staticwebassets\\plugins\\font-icons\\feather\\send.svg"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\font-icons\\feather\\server.svg",
+      "PackagePath": "staticwebassets\\plugins\\font-icons\\feather\\server.svg"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\font-icons\\feather\\settings.svg",
+      "PackagePath": "staticwebassets\\plugins\\font-icons\\feather\\settings.svg"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\font-icons\\feather\\share-2.svg",
+      "PackagePath": "staticwebassets\\plugins\\font-icons\\feather\\share-2.svg"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\font-icons\\feather\\share.svg",
+      "PackagePath": "staticwebassets\\plugins\\font-icons\\feather\\share.svg"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\font-icons\\feather\\shield-off.svg",
+      "PackagePath": "staticwebassets\\plugins\\font-icons\\feather\\shield-off.svg"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\font-icons\\feather\\shield.svg",
+      "PackagePath": "staticwebassets\\plugins\\font-icons\\feather\\shield.svg"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\font-icons\\feather\\shopping-bag.svg",
+      "PackagePath": "staticwebassets\\plugins\\font-icons\\feather\\shopping-bag.svg"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\font-icons\\feather\\shopping-cart.svg",
+      "PackagePath": "staticwebassets\\plugins\\font-icons\\feather\\shopping-cart.svg"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\font-icons\\feather\\shuffle.svg",
+      "PackagePath": "staticwebassets\\plugins\\font-icons\\feather\\shuffle.svg"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\font-icons\\feather\\sidebar.svg",
+      "PackagePath": "staticwebassets\\plugins\\font-icons\\feather\\sidebar.svg"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\font-icons\\feather\\skip-back.svg",
+      "PackagePath": "staticwebassets\\plugins\\font-icons\\feather\\skip-back.svg"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\font-icons\\feather\\skip-forward.svg",
+      "PackagePath": "staticwebassets\\plugins\\font-icons\\feather\\skip-forward.svg"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\font-icons\\feather\\slack.svg",
+      "PackagePath": "staticwebassets\\plugins\\font-icons\\feather\\slack.svg"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\font-icons\\feather\\slash.svg",
+      "PackagePath": "staticwebassets\\plugins\\font-icons\\feather\\slash.svg"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\font-icons\\feather\\sliders.svg",
+      "PackagePath": "staticwebassets\\plugins\\font-icons\\feather\\sliders.svg"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\font-icons\\feather\\smartphone.svg",
+      "PackagePath": "staticwebassets\\plugins\\font-icons\\feather\\smartphone.svg"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\font-icons\\feather\\smile.svg",
+      "PackagePath": "staticwebassets\\plugins\\font-icons\\feather\\smile.svg"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\font-icons\\feather\\speaker.svg",
+      "PackagePath": "staticwebassets\\plugins\\font-icons\\feather\\speaker.svg"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\font-icons\\feather\\square.svg",
+      "PackagePath": "staticwebassets\\plugins\\font-icons\\feather\\square.svg"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\font-icons\\feather\\star.svg",
+      "PackagePath": "staticwebassets\\plugins\\font-icons\\feather\\star.svg"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\font-icons\\feather\\stop-circle.svg",
+      "PackagePath": "staticwebassets\\plugins\\font-icons\\feather\\stop-circle.svg"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\font-icons\\feather\\sun.svg",
+      "PackagePath": "staticwebassets\\plugins\\font-icons\\feather\\sun.svg"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\font-icons\\feather\\sunrise.svg",
+      "PackagePath": "staticwebassets\\plugins\\font-icons\\feather\\sunrise.svg"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\font-icons\\feather\\sunset.svg",
+      "PackagePath": "staticwebassets\\plugins\\font-icons\\feather\\sunset.svg"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\font-icons\\feather\\tablet.svg",
+      "PackagePath": "staticwebassets\\plugins\\font-icons\\feather\\tablet.svg"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\font-icons\\feather\\tag.svg",
+      "PackagePath": "staticwebassets\\plugins\\font-icons\\feather\\tag.svg"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\font-icons\\feather\\target.svg",
+      "PackagePath": "staticwebassets\\plugins\\font-icons\\feather\\target.svg"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\font-icons\\feather\\terminal.svg",
+      "PackagePath": "staticwebassets\\plugins\\font-icons\\feather\\terminal.svg"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\font-icons\\feather\\thermometer.svg",
+      "PackagePath": "staticwebassets\\plugins\\font-icons\\feather\\thermometer.svg"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\font-icons\\feather\\thumbs-down.svg",
+      "PackagePath": "staticwebassets\\plugins\\font-icons\\feather\\thumbs-down.svg"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\font-icons\\feather\\thumbs-up.svg",
+      "PackagePath": "staticwebassets\\plugins\\font-icons\\feather\\thumbs-up.svg"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\font-icons\\feather\\toggle-left.svg",
+      "PackagePath": "staticwebassets\\plugins\\font-icons\\feather\\toggle-left.svg"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\font-icons\\feather\\toggle-right.svg",
+      "PackagePath": "staticwebassets\\plugins\\font-icons\\feather\\toggle-right.svg"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\font-icons\\feather\\tool.svg",
+      "PackagePath": "staticwebassets\\plugins\\font-icons\\feather\\tool.svg"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\font-icons\\feather\\trash-2.svg",
+      "PackagePath": "staticwebassets\\plugins\\font-icons\\feather\\trash-2.svg"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\font-icons\\feather\\trash.svg",
+      "PackagePath": "staticwebassets\\plugins\\font-icons\\feather\\trash.svg"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\font-icons\\feather\\trello.svg",
+      "PackagePath": "staticwebassets\\plugins\\font-icons\\feather\\trello.svg"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\font-icons\\feather\\trending-down.svg",
+      "PackagePath": "staticwebassets\\plugins\\font-icons\\feather\\trending-down.svg"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\font-icons\\feather\\trending-up.svg",
+      "PackagePath": "staticwebassets\\plugins\\font-icons\\feather\\trending-up.svg"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\font-icons\\feather\\triangle.svg",
+      "PackagePath": "staticwebassets\\plugins\\font-icons\\feather\\triangle.svg"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\font-icons\\feather\\truck.svg",
+      "PackagePath": "staticwebassets\\plugins\\font-icons\\feather\\truck.svg"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\font-icons\\feather\\tv.svg",
+      "PackagePath": "staticwebassets\\plugins\\font-icons\\feather\\tv.svg"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\font-icons\\feather\\twitch.svg",
+      "PackagePath": "staticwebassets\\plugins\\font-icons\\feather\\twitch.svg"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\font-icons\\feather\\twitter.svg",
+      "PackagePath": "staticwebassets\\plugins\\font-icons\\feather\\twitter.svg"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\font-icons\\feather\\type.svg",
+      "PackagePath": "staticwebassets\\plugins\\font-icons\\feather\\type.svg"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\font-icons\\feather\\umbrella.svg",
+      "PackagePath": "staticwebassets\\plugins\\font-icons\\feather\\umbrella.svg"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\font-icons\\feather\\underline.svg",
+      "PackagePath": "staticwebassets\\plugins\\font-icons\\feather\\underline.svg"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\font-icons\\feather\\unlock.svg",
+      "PackagePath": "staticwebassets\\plugins\\font-icons\\feather\\unlock.svg"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\font-icons\\feather\\upload-cloud.svg",
+      "PackagePath": "staticwebassets\\plugins\\font-icons\\feather\\upload-cloud.svg"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\font-icons\\feather\\upload.svg",
+      "PackagePath": "staticwebassets\\plugins\\font-icons\\feather\\upload.svg"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\font-icons\\feather\\user-check.svg",
+      "PackagePath": "staticwebassets\\plugins\\font-icons\\feather\\user-check.svg"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\font-icons\\feather\\user-minus.svg",
+      "PackagePath": "staticwebassets\\plugins\\font-icons\\feather\\user-minus.svg"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\font-icons\\feather\\user-plus.svg",
+      "PackagePath": "staticwebassets\\plugins\\font-icons\\feather\\user-plus.svg"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\font-icons\\feather\\user-x.svg",
+      "PackagePath": "staticwebassets\\plugins\\font-icons\\feather\\user-x.svg"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\font-icons\\feather\\user.svg",
+      "PackagePath": "staticwebassets\\plugins\\font-icons\\feather\\user.svg"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\font-icons\\feather\\users.svg",
+      "PackagePath": "staticwebassets\\plugins\\font-icons\\feather\\users.svg"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\font-icons\\feather\\video-off.svg",
+      "PackagePath": "staticwebassets\\plugins\\font-icons\\feather\\video-off.svg"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\font-icons\\feather\\video.svg",
+      "PackagePath": "staticwebassets\\plugins\\font-icons\\feather\\video.svg"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\font-icons\\feather\\voicemail.svg",
+      "PackagePath": "staticwebassets\\plugins\\font-icons\\feather\\voicemail.svg"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\font-icons\\feather\\volume-1.svg",
+      "PackagePath": "staticwebassets\\plugins\\font-icons\\feather\\volume-1.svg"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\font-icons\\feather\\volume-2.svg",
+      "PackagePath": "staticwebassets\\plugins\\font-icons\\feather\\volume-2.svg"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\font-icons\\feather\\volume-x.svg",
+      "PackagePath": "staticwebassets\\plugins\\font-icons\\feather\\volume-x.svg"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\font-icons\\feather\\volume.svg",
+      "PackagePath": "staticwebassets\\plugins\\font-icons\\feather\\volume.svg"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\font-icons\\feather\\watch.svg",
+      "PackagePath": "staticwebassets\\plugins\\font-icons\\feather\\watch.svg"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\font-icons\\feather\\wifi-off.svg",
+      "PackagePath": "staticwebassets\\plugins\\font-icons\\feather\\wifi-off.svg"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\font-icons\\feather\\wifi.svg",
+      "PackagePath": "staticwebassets\\plugins\\font-icons\\feather\\wifi.svg"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\font-icons\\feather\\wind.svg",
+      "PackagePath": "staticwebassets\\plugins\\font-icons\\feather\\wind.svg"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\font-icons\\feather\\x-circle.svg",
+      "PackagePath": "staticwebassets\\plugins\\font-icons\\feather\\x-circle.svg"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\font-icons\\feather\\x-octagon.svg",
+      "PackagePath": "staticwebassets\\plugins\\font-icons\\feather\\x-octagon.svg"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\font-icons\\feather\\x-square.svg",
+      "PackagePath": "staticwebassets\\plugins\\font-icons\\feather\\x-square.svg"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\font-icons\\feather\\x.svg",
+      "PackagePath": "staticwebassets\\plugins\\font-icons\\feather\\x.svg"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\font-icons\\feather\\youtube.svg",
+      "PackagePath": "staticwebassets\\plugins\\font-icons\\feather\\youtube.svg"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\font-icons\\feather\\zap-off.svg",
+      "PackagePath": "staticwebassets\\plugins\\font-icons\\feather\\zap-off.svg"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\font-icons\\feather\\zap.svg",
+      "PackagePath": "staticwebassets\\plugins\\font-icons\\feather\\zap.svg"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\font-icons\\feather\\zoom-in.svg",
+      "PackagePath": "staticwebassets\\plugins\\font-icons\\feather\\zoom-in.svg"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\font-icons\\feather\\zoom-out.svg",
+      "PackagePath": "staticwebassets\\plugins\\font-icons\\feather\\zoom-out.svg"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\font-icons\\fontawesome\\css\\fontawesome.css",
+      "PackagePath": "staticwebassets\\plugins\\font-icons\\fontawesome\\css\\fontawesome.css"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\font-icons\\fontawesome\\css\\regular.css",
+      "PackagePath": "staticwebassets\\plugins\\font-icons\\fontawesome\\css\\regular.css"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\font-icons\\fontawesome\\webfonts\\fa-regular-400.eot",
+      "PackagePath": "staticwebassets\\plugins\\font-icons\\fontawesome\\webfonts\\fa-regular-400.eot"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\font-icons\\fontawesome\\webfonts\\fa-regular-400.svg",
+      "PackagePath": "staticwebassets\\plugins\\font-icons\\fontawesome\\webfonts\\fa-regular-400.svg"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\font-icons\\fontawesome\\webfonts\\fa-regular-400.ttf",
+      "PackagePath": "staticwebassets\\plugins\\font-icons\\fontawesome\\webfonts\\fa-regular-400.ttf"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\font-icons\\fontawesome\\webfonts\\fa-regular-400.woff",
+      "PackagePath": "staticwebassets\\plugins\\font-icons\\fontawesome\\webfonts\\fa-regular-400.woff"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\font-icons\\fontawesome\\webfonts\\fa-regular-400.woff2",
+      "PackagePath": "staticwebassets\\plugins\\font-icons\\fontawesome\\webfonts\\fa-regular-400.woff2"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\fullcalendar\\custom-fullcalendar.advance.css",
+      "PackagePath": "staticwebassets\\plugins\\fullcalendar\\custom-fullcalendar.advance.css"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\fullcalendar\\custom-fullcalendar.advance.js",
+      "PackagePath": "staticwebassets\\plugins\\fullcalendar\\custom-fullcalendar.advance.js"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\fullcalendar\\fullcalendar.css",
+      "PackagePath": "staticwebassets\\plugins\\fullcalendar\\fullcalendar.css"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\fullcalendar\\fullcalendar.min.css",
+      "PackagePath": "staticwebassets\\plugins\\fullcalendar\\fullcalendar.min.css"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\fullcalendar\\fullcalendar.min.js",
+      "PackagePath": "staticwebassets\\plugins\\fullcalendar\\fullcalendar.min.js"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\fullcalendar\\moment.min.js",
+      "PackagePath": "staticwebassets\\plugins\\fullcalendar\\moment.min.js"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\highlight\\highlight.pack.js",
+      "PackagePath": "staticwebassets\\plugins\\highlight\\highlight.pack.js"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\highlight\\styles\\a11y-dark.css",
+      "PackagePath": "staticwebassets\\plugins\\highlight\\styles\\a11y-dark.css"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\highlight\\styles\\a11y-light.css",
+      "PackagePath": "staticwebassets\\plugins\\highlight\\styles\\a11y-light.css"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\highlight\\styles\\agate.css",
+      "PackagePath": "staticwebassets\\plugins\\highlight\\styles\\agate.css"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\highlight\\styles\\an-old-hope.css",
+      "PackagePath": "staticwebassets\\plugins\\highlight\\styles\\an-old-hope.css"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\highlight\\styles\\androidstudio.css",
+      "PackagePath": "staticwebassets\\plugins\\highlight\\styles\\androidstudio.css"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\highlight\\styles\\arduino-light.css",
+      "PackagePath": "staticwebassets\\plugins\\highlight\\styles\\arduino-light.css"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\highlight\\styles\\arta.css",
+      "PackagePath": "staticwebassets\\plugins\\highlight\\styles\\arta.css"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\highlight\\styles\\ascetic.css",
+      "PackagePath": "staticwebassets\\plugins\\highlight\\styles\\ascetic.css"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\highlight\\styles\\atelier-cave-dark.css",
+      "PackagePath": "staticwebassets\\plugins\\highlight\\styles\\atelier-cave-dark.css"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\highlight\\styles\\atelier-cave-light.css",
+      "PackagePath": "staticwebassets\\plugins\\highlight\\styles\\atelier-cave-light.css"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\highlight\\styles\\atelier-dune-dark.css",
+      "PackagePath": "staticwebassets\\plugins\\highlight\\styles\\atelier-dune-dark.css"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\highlight\\styles\\atelier-dune-light.css",
+      "PackagePath": "staticwebassets\\plugins\\highlight\\styles\\atelier-dune-light.css"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\highlight\\styles\\atelier-estuary-dark.css",
+      "PackagePath": "staticwebassets\\plugins\\highlight\\styles\\atelier-estuary-dark.css"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\highlight\\styles\\atelier-estuary-light.css",
+      "PackagePath": "staticwebassets\\plugins\\highlight\\styles\\atelier-estuary-light.css"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\highlight\\styles\\atelier-forest-dark.css",
+      "PackagePath": "staticwebassets\\plugins\\highlight\\styles\\atelier-forest-dark.css"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\highlight\\styles\\atelier-forest-light.css",
+      "PackagePath": "staticwebassets\\plugins\\highlight\\styles\\atelier-forest-light.css"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\highlight\\styles\\atelier-heath-dark.css",
+      "PackagePath": "staticwebassets\\plugins\\highlight\\styles\\atelier-heath-dark.css"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\highlight\\styles\\atelier-heath-light.css",
+      "PackagePath": "staticwebassets\\plugins\\highlight\\styles\\atelier-heath-light.css"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\highlight\\styles\\atelier-lakeside-dark.css",
+      "PackagePath": "staticwebassets\\plugins\\highlight\\styles\\atelier-lakeside-dark.css"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\highlight\\styles\\atelier-lakeside-light.css",
+      "PackagePath": "staticwebassets\\plugins\\highlight\\styles\\atelier-lakeside-light.css"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\highlight\\styles\\atelier-plateau-dark.css",
+      "PackagePath": "staticwebassets\\plugins\\highlight\\styles\\atelier-plateau-dark.css"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\highlight\\styles\\atelier-plateau-light.css",
+      "PackagePath": "staticwebassets\\plugins\\highlight\\styles\\atelier-plateau-light.css"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\highlight\\styles\\atelier-savanna-dark.css",
+      "PackagePath": "staticwebassets\\plugins\\highlight\\styles\\atelier-savanna-dark.css"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\highlight\\styles\\atelier-savanna-light.css",
+      "PackagePath": "staticwebassets\\plugins\\highlight\\styles\\atelier-savanna-light.css"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\highlight\\styles\\atelier-seaside-dark.css",
+      "PackagePath": "staticwebassets\\plugins\\highlight\\styles\\atelier-seaside-dark.css"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\highlight\\styles\\atelier-seaside-light.css",
+      "PackagePath": "staticwebassets\\plugins\\highlight\\styles\\atelier-seaside-light.css"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\highlight\\styles\\atelier-sulphurpool-dark.css",
+      "PackagePath": "staticwebassets\\plugins\\highlight\\styles\\atelier-sulphurpool-dark.css"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\highlight\\styles\\atelier-sulphurpool-light.css",
+      "PackagePath": "staticwebassets\\plugins\\highlight\\styles\\atelier-sulphurpool-light.css"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\highlight\\styles\\atom-one-dark-reasonable.css",
+      "PackagePath": "staticwebassets\\plugins\\highlight\\styles\\atom-one-dark-reasonable.css"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\highlight\\styles\\atom-one-dark.css",
+      "PackagePath": "staticwebassets\\plugins\\highlight\\styles\\atom-one-dark.css"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\highlight\\styles\\atom-one-light.css",
+      "PackagePath": "staticwebassets\\plugins\\highlight\\styles\\atom-one-light.css"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\highlight\\styles\\brown-paper.css",
+      "PackagePath": "staticwebassets\\plugins\\highlight\\styles\\brown-paper.css"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\highlight\\styles\\brown-papersq.png",
+      "PackagePath": "staticwebassets\\plugins\\highlight\\styles\\brown-papersq.png"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\highlight\\styles\\codepen-embed.css",
+      "PackagePath": "staticwebassets\\plugins\\highlight\\styles\\codepen-embed.css"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\highlight\\styles\\color-brewer.css",
+      "PackagePath": "staticwebassets\\plugins\\highlight\\styles\\color-brewer.css"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\highlight\\styles\\darcula.css",
+      "PackagePath": "staticwebassets\\plugins\\highlight\\styles\\darcula.css"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\highlight\\styles\\dark.css",
+      "PackagePath": "staticwebassets\\plugins\\highlight\\styles\\dark.css"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\highlight\\styles\\darkula.css",
+      "PackagePath": "staticwebassets\\plugins\\highlight\\styles\\darkula.css"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\highlight\\styles\\default.css",
+      "PackagePath": "staticwebassets\\plugins\\highlight\\styles\\default.css"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\highlight\\styles\\docco.css",
+      "PackagePath": "staticwebassets\\plugins\\highlight\\styles\\docco.css"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\highlight\\styles\\dracula.css",
+      "PackagePath": "staticwebassets\\plugins\\highlight\\styles\\dracula.css"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\highlight\\styles\\far.css",
+      "PackagePath": "staticwebassets\\plugins\\highlight\\styles\\far.css"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\highlight\\styles\\foundation.css",
+      "PackagePath": "staticwebassets\\plugins\\highlight\\styles\\foundation.css"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\highlight\\styles\\github-gist.css",
+      "PackagePath": "staticwebassets\\plugins\\highlight\\styles\\github-gist.css"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\highlight\\styles\\github.css",
+      "PackagePath": "staticwebassets\\plugins\\highlight\\styles\\github.css"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\highlight\\styles\\gml.css",
+      "PackagePath": "staticwebassets\\plugins\\highlight\\styles\\gml.css"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\highlight\\styles\\googlecode.css",
+      "PackagePath": "staticwebassets\\plugins\\highlight\\styles\\googlecode.css"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\highlight\\styles\\grayscale.css",
+      "PackagePath": "staticwebassets\\plugins\\highlight\\styles\\grayscale.css"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\highlight\\styles\\gruvbox-dark.css",
+      "PackagePath": "staticwebassets\\plugins\\highlight\\styles\\gruvbox-dark.css"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\highlight\\styles\\gruvbox-light.css",
+      "PackagePath": "staticwebassets\\plugins\\highlight\\styles\\gruvbox-light.css"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\highlight\\styles\\hopscotch.css",
+      "PackagePath": "staticwebassets\\plugins\\highlight\\styles\\hopscotch.css"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\highlight\\styles\\hybrid.css",
+      "PackagePath": "staticwebassets\\plugins\\highlight\\styles\\hybrid.css"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\highlight\\styles\\idea.css",
+      "PackagePath": "staticwebassets\\plugins\\highlight\\styles\\idea.css"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\highlight\\styles\\ir-black.css",
+      "PackagePath": "staticwebassets\\plugins\\highlight\\styles\\ir-black.css"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\highlight\\styles\\isbl-editor-dark.css",
+      "PackagePath": "staticwebassets\\plugins\\highlight\\styles\\isbl-editor-dark.css"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\highlight\\styles\\isbl-editor-light.css",
+      "PackagePath": "staticwebassets\\plugins\\highlight\\styles\\isbl-editor-light.css"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\highlight\\styles\\kimbie.dark.css",
+      "PackagePath": "staticwebassets\\plugins\\highlight\\styles\\kimbie.dark.css"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\highlight\\styles\\kimbie.light.css",
+      "PackagePath": "staticwebassets\\plugins\\highlight\\styles\\kimbie.light.css"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\highlight\\styles\\lightfair.css",
+      "PackagePath": "staticwebassets\\plugins\\highlight\\styles\\lightfair.css"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\highlight\\styles\\magula.css",
+      "PackagePath": "staticwebassets\\plugins\\highlight\\styles\\magula.css"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\highlight\\styles\\mono-blue.css",
+      "PackagePath": "staticwebassets\\plugins\\highlight\\styles\\mono-blue.css"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\highlight\\styles\\monokai-sublime.css",
+      "PackagePath": "staticwebassets\\plugins\\highlight\\styles\\monokai-sublime.css"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\highlight\\styles\\monokai.css",
+      "PackagePath": "staticwebassets\\plugins\\highlight\\styles\\monokai.css"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\highlight\\styles\\nord.css",
+      "PackagePath": "staticwebassets\\plugins\\highlight\\styles\\nord.css"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\highlight\\styles\\obsidian.css",
+      "PackagePath": "staticwebassets\\plugins\\highlight\\styles\\obsidian.css"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\highlight\\styles\\ocean.css",
+      "PackagePath": "staticwebassets\\plugins\\highlight\\styles\\ocean.css"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\highlight\\styles\\paraiso-dark.css",
+      "PackagePath": "staticwebassets\\plugins\\highlight\\styles\\paraiso-dark.css"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\highlight\\styles\\paraiso-light.css",
+      "PackagePath": "staticwebassets\\plugins\\highlight\\styles\\paraiso-light.css"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\highlight\\styles\\pojoaque.css",
+      "PackagePath": "staticwebassets\\plugins\\highlight\\styles\\pojoaque.css"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\highlight\\styles\\pojoaque.jpg",
+      "PackagePath": "staticwebassets\\plugins\\highlight\\styles\\pojoaque.jpg"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\highlight\\styles\\purebasic.css",
+      "PackagePath": "staticwebassets\\plugins\\highlight\\styles\\purebasic.css"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\highlight\\styles\\qtcreator_dark.css",
+      "PackagePath": "staticwebassets\\plugins\\highlight\\styles\\qtcreator_dark.css"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\highlight\\styles\\qtcreator_light.css",
+      "PackagePath": "staticwebassets\\plugins\\highlight\\styles\\qtcreator_light.css"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\highlight\\styles\\railscasts.css",
+      "PackagePath": "staticwebassets\\plugins\\highlight\\styles\\railscasts.css"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\highlight\\styles\\rainbow.css",
+      "PackagePath": "staticwebassets\\plugins\\highlight\\styles\\rainbow.css"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\highlight\\styles\\routeros.css",
+      "PackagePath": "staticwebassets\\plugins\\highlight\\styles\\routeros.css"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\highlight\\styles\\school-book.css",
+      "PackagePath": "staticwebassets\\plugins\\highlight\\styles\\school-book.css"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\highlight\\styles\\school-book.png",
+      "PackagePath": "staticwebassets\\plugins\\highlight\\styles\\school-book.png"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\highlight\\styles\\shades-of-purple.css",
+      "PackagePath": "staticwebassets\\plugins\\highlight\\styles\\shades-of-purple.css"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\highlight\\styles\\solarized-dark.css",
+      "PackagePath": "staticwebassets\\plugins\\highlight\\styles\\solarized-dark.css"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\highlight\\styles\\solarized-light.css",
+      "PackagePath": "staticwebassets\\plugins\\highlight\\styles\\solarized-light.css"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\highlight\\styles\\sunburst.css",
+      "PackagePath": "staticwebassets\\plugins\\highlight\\styles\\sunburst.css"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\highlight\\styles\\tomorrow-night-blue.css",
+      "PackagePath": "staticwebassets\\plugins\\highlight\\styles\\tomorrow-night-blue.css"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\highlight\\styles\\tomorrow-night-bright.css",
+      "PackagePath": "staticwebassets\\plugins\\highlight\\styles\\tomorrow-night-bright.css"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\highlight\\styles\\tomorrow-night-eighties.css",
+      "PackagePath": "staticwebassets\\plugins\\highlight\\styles\\tomorrow-night-eighties.css"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\highlight\\styles\\tomorrow-night.css",
+      "PackagePath": "staticwebassets\\plugins\\highlight\\styles\\tomorrow-night.css"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\highlight\\styles\\tomorrow.css",
+      "PackagePath": "staticwebassets\\plugins\\highlight\\styles\\tomorrow.css"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\highlight\\styles\\vs.css",
+      "PackagePath": "staticwebassets\\plugins\\highlight\\styles\\vs.css"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\highlight\\styles\\vs2015.css",
+      "PackagePath": "staticwebassets\\plugins\\highlight\\styles\\vs2015.css"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\highlight\\styles\\xcode.css",
+      "PackagePath": "staticwebassets\\plugins\\highlight\\styles\\xcode.css"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\highlight\\styles\\xt256.css",
+      "PackagePath": "staticwebassets\\plugins\\highlight\\styles\\xt256.css"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\highlight\\styles\\zenburn.css",
+      "PackagePath": "staticwebassets\\plugins\\highlight\\styles\\zenburn.css"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\input-mask\\input-mask.js",
+      "PackagePath": "staticwebassets\\plugins\\input-mask\\input-mask.js"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\input-mask\\jquery.inputmask.bundle.min.js",
+      "PackagePath": "staticwebassets\\plugins\\input-mask\\jquery.inputmask.bundle.min.js"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\input-mask\\phone-codes\\phone-be.min.js",
+      "PackagePath": "staticwebassets\\plugins\\input-mask\\phone-codes\\phone-be.min.js"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\input-mask\\phone-codes\\phone-ca.min.js",
+      "PackagePath": "staticwebassets\\plugins\\input-mask\\phone-codes\\phone-ca.min.js"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\input-mask\\phone-codes\\phone-hu.min.js",
+      "PackagePath": "staticwebassets\\plugins\\input-mask\\phone-codes\\phone-hu.min.js"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\input-mask\\phone-codes\\phone-it.min.js",
+      "PackagePath": "staticwebassets\\plugins\\input-mask\\phone-codes\\phone-it.min.js"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\input-mask\\phone-codes\\phone-mx.min.js",
+      "PackagePath": "staticwebassets\\plugins\\input-mask\\phone-codes\\phone-mx.min.js"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\input-mask\\phone-codes\\phone-nl.min.js",
+      "PackagePath": "staticwebassets\\plugins\\input-mask\\phone-codes\\phone-nl.min.js"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\input-mask\\phone-codes\\phone-ru.min.js",
+      "PackagePath": "staticwebassets\\plugins\\input-mask\\phone-codes\\phone-ru.min.js"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\input-mask\\phone-codes\\phone.min.js",
+      "PackagePath": "staticwebassets\\plugins\\input-mask\\phone-codes\\phone.min.js"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\jquery-step\\custom-jquery.steps.js",
+      "PackagePath": "staticwebassets\\plugins\\jquery-step\\custom-jquery.steps.js"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\jquery-step\\jquery.steps.css",
+      "PackagePath": "staticwebassets\\plugins\\jquery-step\\jquery.steps.css"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\jquery-step\\jquery.steps.min.js",
+      "PackagePath": "staticwebassets\\plugins\\jquery-step\\jquery.steps.min.js"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\jquery-ui\\images\\ui-icons_444444_256x240.png",
+      "PackagePath": "staticwebassets\\plugins\\jquery-ui\\images\\ui-icons_444444_256x240.png"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\jquery-ui\\images\\ui-icons_555555_256x240.png",
+      "PackagePath": "staticwebassets\\plugins\\jquery-ui\\images\\ui-icons_555555_256x240.png"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\jquery-ui\\images\\ui-icons_777620_256x240.png",
+      "PackagePath": "staticwebassets\\plugins\\jquery-ui\\images\\ui-icons_777620_256x240.png"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\jquery-ui\\images\\ui-icons_777777_256x240.png",
+      "PackagePath": "staticwebassets\\plugins\\jquery-ui\\images\\ui-icons_777777_256x240.png"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\jquery-ui\\images\\ui-icons_cc0000_256x240.png",
+      "PackagePath": "staticwebassets\\plugins\\jquery-ui\\images\\ui-icons_cc0000_256x240.png"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\jquery-ui\\images\\ui-icons_cccccc_256x240.png",
+      "PackagePath": "staticwebassets\\plugins\\jquery-ui\\images\\ui-icons_cccccc_256x240.png"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\jquery-ui\\images\\ui-icons_ffffff_256x240.png",
+      "PackagePath": "staticwebassets\\plugins\\jquery-ui\\images\\ui-icons_ffffff_256x240.png"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\jquery-ui\\jquery-ui.min.css",
+      "PackagePath": "staticwebassets\\plugins\\jquery-ui\\jquery-ui.min.css"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\jquery-ui\\jquery-ui.min.js",
+      "PackagePath": "staticwebassets\\plugins\\jquery-ui\\jquery-ui.min.js"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\jvector\\africa\\jquery-jvectormap-africa-en.js",
+      "PackagePath": "staticwebassets\\plugins\\jvector\\africa\\jquery-jvectormap-africa-en.js"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\jvector\\asia\\jquery-jvectormap-asia-en.js",
+      "PackagePath": "staticwebassets\\plugins\\jvector\\asia\\jquery-jvectormap-asia-en.js"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\jvector\\continents\\jquery-jvectormap-continents-en.js",
+      "PackagePath": "staticwebassets\\plugins\\jvector\\continents\\jquery-jvectormap-continents-en.js"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\jvector\\europe\\jquery-jvectormap-europe-en.js",
+      "PackagePath": "staticwebassets\\plugins\\jvector\\europe\\jquery-jvectormap-europe-en.js"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\jvector\\jquery-jvectormap-2.0.3.css",
+      "PackagePath": "staticwebassets\\plugins\\jvector\\jquery-jvectormap-2.0.3.css"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\jvector\\jquery-jvectormap-2.0.3.min.js",
+      "PackagePath": "staticwebassets\\plugins\\jvector\\jquery-jvectormap-2.0.3.min.js"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\jvector\\jvector_script.js",
+      "PackagePath": "staticwebassets\\plugins\\jvector\\jvector_script.js"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\jvector\\north_america\\jquery-jvectormap-north-america-en.js",
+      "PackagePath": "staticwebassets\\plugins\\jvector\\north_america\\jquery-jvectormap-north-america-en.js"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\jvector\\oceania\\jquery-jvectormap-oceanina-en.js",
+      "PackagePath": "staticwebassets\\plugins\\jvector\\oceania\\jquery-jvectormap-oceanina-en.js"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\jvector\\south-america\\jquery-jvectormap-south-america-en.js",
+      "PackagePath": "staticwebassets\\plugins\\jvector\\south-america\\jquery-jvectormap-south-america-en.js"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\jvector\\worldmap_script\\jquery-jvectormap-world-mill-en.js",
+      "PackagePath": "staticwebassets\\plugins\\jvector\\worldmap_script\\jquery-jvectormap-world-mill-en.js"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\lightbox\\custom-photswipe.css",
+      "PackagePath": "staticwebassets\\plugins\\lightbox\\custom-photswipe.css"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\lightbox\\custom-photswipe.js",
+      "PackagePath": "staticwebassets\\plugins\\lightbox\\custom-photswipe.js"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\lightbox\\default-skin\\default-skin.css",
+      "PackagePath": "staticwebassets\\plugins\\lightbox\\default-skin\\default-skin.css"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\lightbox\\default-skin\\default-skin.png",
+      "PackagePath": "staticwebassets\\plugins\\lightbox\\default-skin\\default-skin.png"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\lightbox\\default-skin\\default-skin.svg",
+      "PackagePath": "staticwebassets\\plugins\\lightbox\\default-skin\\default-skin.svg"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\lightbox\\default-skin\\preloader.gif",
+      "PackagePath": "staticwebassets\\plugins\\lightbox\\default-skin\\preloader.gif"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\lightbox\\photoswipe-ui-default.js",
+      "PackagePath": "staticwebassets\\plugins\\lightbox\\photoswipe-ui-default.js"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\lightbox\\photoswipe-ui-default.min.js",
+      "PackagePath": "staticwebassets\\plugins\\lightbox\\photoswipe-ui-default.min.js"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\lightbox\\photoswipe.css",
+      "PackagePath": "staticwebassets\\plugins\\lightbox\\photoswipe.css"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\lightbox\\photoswipe.js",
+      "PackagePath": "staticwebassets\\plugins\\lightbox\\photoswipe.js"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\lightbox\\photoswipe.min.js",
+      "PackagePath": "staticwebassets\\plugins\\lightbox\\photoswipe.min.js"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\loaders\\custom-loader.css",
+      "PackagePath": "staticwebassets\\plugins\\loaders\\custom-loader.css"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\noUiSlider\\custom-nouiSlider.css",
+      "PackagePath": "staticwebassets\\plugins\\noUiSlider\\custom-nouiSlider.css"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\noUiSlider\\custom-nouiSlider.js",
+      "PackagePath": "staticwebassets\\plugins\\noUiSlider\\custom-nouiSlider.js"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\noUiSlider\\nouislider.min.css",
+      "PackagePath": "staticwebassets\\plugins\\noUiSlider\\nouislider.min.css"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\noUiSlider\\nouislider.min.js",
+      "PackagePath": "staticwebassets\\plugins\\noUiSlider\\nouislider.min.js"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\notification\\snackbar\\snackbar.min.css",
+      "PackagePath": "staticwebassets\\plugins\\notification\\snackbar\\snackbar.min.css"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\notification\\snackbar\\snackbar.min.js",
+      "PackagePath": "staticwebassets\\plugins\\notification\\snackbar\\snackbar.min.js"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\perfect-scrollbar\\perfect-scrollbar.css",
+      "PackagePath": "staticwebassets\\plugins\\perfect-scrollbar\\perfect-scrollbar.css"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\perfect-scrollbar\\perfect-scrollbar.min.js",
+      "PackagePath": "staticwebassets\\plugins\\perfect-scrollbar\\perfect-scrollbar.min.js"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\pricing-table\\css\\component.css",
+      "PackagePath": "staticwebassets\\plugins\\pricing-table\\css\\component.css"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\select2\\custom-select2.js",
+      "PackagePath": "staticwebassets\\plugins\\select2\\custom-select2.js"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\select2\\select2-spinner.gif",
+      "PackagePath": "staticwebassets\\plugins\\select2\\select2-spinner.gif"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\select2\\select2.min.css",
+      "PackagePath": "staticwebassets\\plugins\\select2\\select2.min.css"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\select2\\select2.min.js",
+      "PackagePath": "staticwebassets\\plugins\\select2\\select2.min.js"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\select2\\select2.png",
+      "PackagePath": "staticwebassets\\plugins\\select2\\select2.png"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\select2\\select2x2.png",
+      "PackagePath": "staticwebassets\\plugins\\select2\\select2x2.png"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\sweetalerts\\custom-sweetalert.js",
+      "PackagePath": "staticwebassets\\plugins\\sweetalerts\\custom-sweetalert.js"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\sweetalerts\\promise-polyfill.js",
+      "PackagePath": "staticwebassets\\plugins\\sweetalerts\\promise-polyfill.js"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\sweetalerts\\sweetalert.css",
+      "PackagePath": "staticwebassets\\plugins\\sweetalerts\\sweetalert.css"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\sweetalerts\\sweetalert.js",
+      "PackagePath": "staticwebassets\\plugins\\sweetalerts\\sweetalert.js"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\sweetalerts\\sweetalert2.min.css",
+      "PackagePath": "staticwebassets\\plugins\\sweetalerts\\sweetalert2.min.css"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\sweetalerts\\sweetalert2.min.js",
+      "PackagePath": "staticwebassets\\plugins\\sweetalerts\\sweetalert2.min.js"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\table\\datatable\\button-ext\\buttons.html5.min.js",
+      "PackagePath": "staticwebassets\\plugins\\table\\datatable\\button-ext\\buttons.html5.min.js"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\table\\datatable\\button-ext\\buttons.print.min.js",
+      "PackagePath": "staticwebassets\\plugins\\table\\datatable\\button-ext\\buttons.print.min.js"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\table\\datatable\\button-ext\\dataTables.buttons.min.js",
+      "PackagePath": "staticwebassets\\plugins\\table\\datatable\\button-ext\\dataTables.buttons.min.js"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\table\\datatable\\button-ext\\jszip.min.js",
+      "PackagePath": "staticwebassets\\plugins\\table\\datatable\\button-ext\\jszip.min.js"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\table\\datatable\\custom_dt_custom.css",
+      "PackagePath": "staticwebassets\\plugins\\table\\datatable\\custom_dt_custom.css"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\table\\datatable\\custom_dt_html5.css",
+      "PackagePath": "staticwebassets\\plugins\\table\\datatable\\custom_dt_html5.css"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\table\\datatable\\custom_dt_miscellaneous.css",
+      "PackagePath": "staticwebassets\\plugins\\table\\datatable\\custom_dt_miscellaneous.css"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\table\\datatable\\custom_dt_multiple_tables.css",
+      "PackagePath": "staticwebassets\\plugins\\table\\datatable\\custom_dt_multiple_tables.css"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\table\\datatable\\custom_miscellaneous.js",
+      "PackagePath": "staticwebassets\\plugins\\table\\datatable\\custom_miscellaneous.js"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\table\\datatable\\datatables-dark.css",
+      "PackagePath": "staticwebassets\\plugins\\table\\datatable\\datatables-dark.css"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\table\\datatable\\datatables.css",
+      "PackagePath": "staticwebassets\\plugins\\table\\datatable\\datatables.css"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\table\\datatable\\datatables.js",
+      "PackagePath": "staticwebassets\\plugins\\table\\datatable\\datatables.js"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\table\\datatable\\dt-custom-setting.js",
+      "PackagePath": "staticwebassets\\plugins\\table\\datatable\\dt-custom-setting.js"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\table\\datatable\\dt-global_style-dark.css",
+      "PackagePath": "staticwebassets\\plugins\\table\\datatable\\dt-global_style-dark.css"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\table\\datatable\\dt-global_style.css",
+      "PackagePath": "staticwebassets\\plugins\\table\\datatable\\dt-global_style.css"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\tagInput\\tags-input.css",
+      "PackagePath": "staticwebassets\\plugins\\tagInput\\tags-input.css"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\tagInput\\tags-input.js",
+      "PackagePath": "staticwebassets\\plugins\\tagInput\\tags-input.js"
+    },
+    {
+      "Id": "F:\\My Project\\New ERP_SOLUTION\\NERP_SOLUTION\\ERP_SOLUTION\\wwwroot\\plugins\\treeview\\custom-jstree.js",
+      "PackagePath": "staticwebassets\\plugins\\treeview\\custom-jstree.js"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.ERP_SOLUTION.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.ERP_SOLUTION.props",
+      "PackagePath": "build\\ERP_SOLUTION.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.ERP_SOLUTION.props",
+      "PackagePath": "buildMultiTargeting\\ERP_SOLUTION.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.ERP_SOLUTION.props",
+      "PackagePath": "buildTransitive\\ERP_SOLUTION.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
