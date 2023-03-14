@@ -7,7 +7,6 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Model\HRM\" />
     <Folder Include="Repository\Repository\HRM\" />
     <Folder Include="Repository\IRepository\IHRM\" />
     <Folder Include="Service\" />
