@@ -23,6 +23,8 @@ namespace ERP_SOLUTION.Controllers
             return View();
         }
 
+        // Roy
+
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
         public IActionResult Error()
         {
